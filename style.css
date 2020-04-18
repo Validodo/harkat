@@ -110,7 +110,8 @@ margin-bottom:50px;}
 p { font-family: 'Montserrat', sans-serif;
 font-size: 1.5em;
 color: white;
- text-shadow: 2px 2px 4px #000000;  }
+ text-shadow: 2px 2px 4px #000000;
+ line-height: 2rem;  }
 
 /*tästä poikkki*/
 /*.container {
@@ -388,4 +389,8 @@ color: white;
 
 .note a:hover {
   text-decoration: underline;
+}
+
+.kuva {
+  width: 90%
 }
