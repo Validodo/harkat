@@ -394,3 +394,16 @@ color: white;
 .kuva {
   width: 90%
 }
+
+.urheilija:hover {
+transition: 1s;
+transform: scale(1.5);
+background-color: black;
+border-color: black;
+
+}
+
+.kuvacarol:hover {
+  transition: 2s;
+  transform: scale(1.4);
+}
